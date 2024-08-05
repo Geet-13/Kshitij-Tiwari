@@ -17,7 +17,6 @@ body {
 }
 .text {
     text-align: center;
-    color: #fff;
 }
 .choices {
     display: block;
@@ -30,10 +29,10 @@ body {
     height: 45%;
     width: 8%;
     background-color: beige;
+    color: black;
     margin: 2% 5%;
     border-radius: 10%;
     text-align: center;
-    color: black;
     font-size: 32px;
     font-weight: 500;
 }
@@ -61,10 +60,10 @@ body {
         height: 40%;
         width: 12%;
         background-color: beige;
+        color: black;
         margin: 2% 5%;
         border-radius: 10%;
         text-align: center;
-        color: black;
         font-size: 25px;
         font-weight: 500;
     }
