@@ -17,7 +17,7 @@ body {
 }
 .text {
     text-align: center;
-    color:#fff;
+    color: #fff;
 }
 .choices {
     display: block;
@@ -33,8 +33,8 @@ body {
     margin: 2% 5%;
     border-radius: 10%;
     text-align: center;
+    color: black;
     font-size: 32px;
-    color:black;
     font-weight: 500;
 }
 @media screen and (max-width:700px) {
@@ -44,6 +44,9 @@ body {
         align-items: flex-end;
         justify-content: center;
     }
+    /* .box {
+        width: 100%;
+    } */
     .text {
         font-size: 30;
     }
@@ -61,8 +64,8 @@ body {
         margin: 2% 5%;
         border-radius: 10%;
         text-align: center;
+        color: black;
         font-size: 25px;
-        color:black;
         font-weight: 500;
     }
 }
