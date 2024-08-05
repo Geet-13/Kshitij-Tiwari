@@ -8,7 +8,7 @@
 }
 body {
     background-color: rgba(3, 3, 3, 0.964);
-    color:bisque;
+    color:#fff;
 }
 .outerbox {
     display: flex;
@@ -17,7 +17,7 @@ body {
 }
 .text {
     text-align: center;
-    color:beige;
+    color:#fff;
 }
 .choices {
     display: block;
@@ -29,7 +29,7 @@ body {
 .choice {
     height: 45%;
     width: 8%;
-    background-color: rgb(92, 5, 57);
+    background-color: beige;
     margin: 2% 5%;
     border-radius: 10%;
     text-align: center;
@@ -44,9 +44,6 @@ body {
         align-items: flex-end;
         justify-content: center;
     }
-    /* .box {
-        width: 100%;
-    } */
     .text {
         font-size: 30;
     }
@@ -59,8 +56,8 @@ body {
     }
     .choice {
         height: 45%;
-        width: 8%;
-        background-color: rgb(92, 5, 57);
+        width: 10%;
+        background-color: beige;
         margin: 2% 5%;
         border-radius: 10%;
         text-align: center;
